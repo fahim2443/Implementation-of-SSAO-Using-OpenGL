@@ -1,0 +1,36 @@
+# macOS
+.DS_Store
+
+# Xcode / Apple
+*.xcuserstate
+**/xcuserdata/
+**/*.moved-aside
+DerivedData/
+build/
+*.pbxuser
+*.mode1v3
+*.mode2v3
+*.perspectivev3
+
+# C/C++ build artifacts
+*.o
+*.obj
+*.out
+*.a
+*.so
+*.dylib
+*.dll
+*.exe
+
+# Project-specific compiled binary
+main/SSAO/SSAO/main
+
+# VS Code
+.vscode/
+
+# Logs
+*.log
+
+# Misc
+Thumbs.db
+ehthumbs.db
